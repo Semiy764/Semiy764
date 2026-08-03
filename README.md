@@ -28,7 +28,7 @@ A backend for a secondhand marketplace app — user authentication (JWT), listin
 
 ### 📫 Reach me
 - GitHub: [@Semiy764](https://github.com/Semiy764)
-- Telegram: [@Semiy764](t.me/semiy764)
+- Telegram: [@Semiy764](http://t.me/semiy764)
 <!--
 ### 📊 GitHub Stats
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Semiy764&show_icons=true&theme=default)

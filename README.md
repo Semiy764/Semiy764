@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Hi, I'm Erfan 👋
 
 🎓 Computer Engineering student @ **Amirkabir University of Technology (AUT)**
